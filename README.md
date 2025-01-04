@@ -1,1 +1,1 @@
-# 241618021_Kemal_Soyyilmaz
+# Öğrenci Bilgi Sistemi Proje Ödevi
